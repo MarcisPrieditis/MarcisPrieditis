@@ -1,6 +1,19 @@
 - 👋 Hi, I’m Marcis Prieditis
 - 👀 Passionate software developer willing to learn new things. Currently learning WEB API (ASP.NET), Angular, Design Patterns, SOLID
-- 🌱 My skillset: C# .Net, Unit testing, SQL, GIT, TDD. Have a basic knowledge about css, html and Javasacript/Typescritp, Angular.
+- 🌱 Current skillset:
+Git
+C#
+.NET
+Relational Databases & SQL
+HTTP & Web API Basics
+Unit Testing
+TypeScript
+JavaScript
+Test Driven Development
+Clean Code, SOLID
+Design Patterns
+HTML & CSS, Angular, basics
+
 - 📫 How to reach me @linkedIn: https://www.linkedin.com/in/marcisp/
                       @gmail: marcispriedza@gmail.com
 
